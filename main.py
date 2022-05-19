@@ -1,7 +1,7 @@
 from cProfile import label
 from decimal import DivisionByZero
 from PyQt5 import QtWidgets
-from calculator import Ui_CalQ  # импорт нашего сгенерированного файла
+from calculator import Ui_CalQ
 import sys
 
 
