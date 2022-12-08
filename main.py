@@ -115,7 +115,7 @@ class mywindow(QtWidgets.QMainWindow):
     def equals(self):
         if self.calculable == ".(1)":
             self.calculable = ""
-            self.ui.calculate.setText("Made by WreckCrack")
+            self.ui.calculate.setText("Made by EmtyfFX")
         elif self.calculable == ".(2)":
             self.calculable = ""
             self.ui.calculate.setText("CalQ v1.0")
